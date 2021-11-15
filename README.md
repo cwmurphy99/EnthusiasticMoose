@@ -367,7 +367,7 @@ Refactor the app to reduce the redundancy in the code.
 
 ## Advanced Challenge
 
-[Magic Moose](./MAGIC_MOOSE.md)
+[Magic Moose](./MagicMoose.md)
 
 ## Advanced Challenge 2
 
